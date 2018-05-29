@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Activity Application</string>
+    <string name="activity_b">Start Activity B</string>
+    <string name="activitybText">
+        Activity B occupies the complete window real-estate.
+        The Android OS forces Activity A to be paused. However,
+        the background thread keep incrementing the counter...
+    </string>
+</resources>
